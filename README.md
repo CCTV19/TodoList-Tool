@@ -10,7 +10,7 @@
 ![1665473453702](https://user-images.githubusercontent.com/101321825/195153225-aa947f1a-c184-477a-94cc-a1877bbce674.jpg)
 
 
-### 点击编辑按钮可实现更改任务名称，鼠标失焦后自动保存（使用$nexTick()实现）示例
+### 点击编辑按钮可实现更改任务名称，鼠标失焦后自动保存（使用$nextTick()实现）示例
 
 ![1665474042585](https://user-images.githubusercontent.com/101321825/195153259-63876911-66ac-4cef-ac24-74ee76a3a1dc.jpg)
 
